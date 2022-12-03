@@ -13,4 +13,4 @@ Benchmarking
 ------------
 The table below shows the result of comparing the model we proposed with Python ‘SciPy’ and ‘py_vollib_vectorized’ packages. The table shows the computation times (in milliseconds) for estimating the implied volatility. Each value is calculated by averaging the values from 100 repetitions, and the corresponding standard deviation is provided in parentheses.
 <p align="center">
-<img src="https://user-images.githubusercontent.com/119658929/205438057-00ee8b33-3c26-4665-89a8-7fdf95bfcdc3.PNG"></p>
+<img src="https://user-images.githubusercontent.com/119658929/205438877-9d31454a-9a25-41bd-ad8d-02c5233d364b.PNG"></p>
