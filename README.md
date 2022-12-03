@@ -9,3 +9,6 @@ Numerical experiments
 
 Results
 -------
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/119658929/205438057-00ee8b33-3c26-4665-89a8-7fdf95bfcdc3.PNG"></p>
