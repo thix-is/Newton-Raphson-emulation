@@ -7,7 +7,11 @@ $$\sigma  _{n+1} = \sigma  _{n} - {{h _{r,k,\tau } (\sigma  _{n} )-c _{mkt}} \ov
 
 Numerical experiments
 ---------------------
-We performed numerical experiments to verify the validity of the proposed method. First, we experiment by setting variable ranges that reflected real markets. And we compared the well-known Python package SciPy(SciPy-NR) and the recently released Python package py_vollib_vectorized(Vectorized) with our proposed method.
+We performed numerical experiments to verify the validity of the proposed method. First, we experiment by setting variable ranges that reflected real markets. The data in the given code is variable range for a million options. And we compared the well-known Python package 'SciPy'(SciPy-NR) and the recently released Python package 'py_vollib_vectorized'(Vectorized) with our proposed method.
+
+### Code sample
+  > python 
+  > 
 
 Benchmarking
 ------------
