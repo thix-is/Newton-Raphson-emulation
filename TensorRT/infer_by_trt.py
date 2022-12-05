@@ -119,10 +119,11 @@ for z in range(101):
             
             result.append(cost_time1)
 
+# save the computation times
 result_df = pd.DataFrame(result)
 result_df.to_csv('result_time.csv', index=False)
 
 import pickle
-
+# save the implied volatility
 with open('trt_imvol.pkl', 'wb') as f:
     pickle.dump(py_batch, f)
