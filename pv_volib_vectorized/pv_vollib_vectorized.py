@@ -29,7 +29,7 @@ def vomma_zero(S, r, K, T):
 
 
 np.random.seed(0)
-n=int(1e+6)
+n=int(1e+6) # number of options
 S=np.array(1.).astype(np.float32); r = np.array(0.).astype(np.float32)
 v = np.random.uniform(0.01, 0.5, n).astype(np.float32)
 T = np.random.uniform(0.01, 2, n).astype(np.float32)
